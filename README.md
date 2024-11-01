@@ -11,7 +11,8 @@ I'm a passionate web developer with a focus on building responsive, user-friendl
 Here are a few projects I’ve worked on:
 
  1.**Fashion Project** 👗
-    *Developed an e-commerce product page with interactive components like image display, order button, and light/dark mode toggle.*
+ http://fashionproject-three.vercel.app 
+*Developed an e-commerce product page with interactive components like image display, order button, and light/dark mode toggle.*
 
 2.**Flower-Themed Website** 🌼  
 *Created a fully responsive and visually engaging flower-themed website using HTML, CSS, JavaScript, and Tailwind CSS.*
